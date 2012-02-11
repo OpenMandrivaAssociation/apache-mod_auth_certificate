@@ -6,7 +6,7 @@
 Summary:	 A client certificate authentication module for apache
 Name:		apache-%{mod_name}
 Version:	0.3
-Release: 	%mkrel 3
+Release: 	%mkrel 4
 Group:		System/Servers
 License:	Apache License
 URL:		http://sourceforge.net/projects/modauthcertific/
