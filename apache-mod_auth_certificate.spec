@@ -9,7 +9,7 @@ Version:	0.3
 Release: 	5
 Group:		System/Servers
 License:	Apache License
-URL:		http://sourceforge.net/projects/modauthcertific/
+URL:		https://sourceforge.net/projects/modauthcertific/
 Source0:	http://sunet.dl.sourceforge.net/project/modauthcertific/mod_auth_certificate/mod_auth_certificate-%{version}/mod_auth_certificate-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
